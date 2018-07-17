@@ -21,5 +21,5 @@ class Dog
     # to do a class method,calling upon self searches for the name of the class and then .all keeps track of everything in the array
     @@dog_all
   end 
-  def
+  
 end
